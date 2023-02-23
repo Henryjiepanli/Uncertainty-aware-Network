@@ -1,2 +1,3 @@
 # Uncertainty-aware-Network
-Uncertainty-aware Network for building extraction
+Codes for 《Uncertainty-Aware Network for Building Extraction from
+High-Resolution Remote Sensing Images》
