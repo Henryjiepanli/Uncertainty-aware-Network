@@ -34,9 +34,9 @@ class Uncertainty_Rank(nn.Module):
         abs_map = torch.abs(prob_map-0.5)
         rank_map_1[abs_map <= 0.5] = 1
         rank_map_2[abs_map <= 0.4] = 0
-        rank_map_3[abs_map <= 0.3] = 1
+        rank_map_3[abs_map <= 0.3] = 0.5
         rank_map_4[abs_map <= 0.2] = 1
-        rank_map_5[abs_map <= 0.1] = 0
+        rank_map_5[abs_map <= 0.1] = 1
 
         rank_map = rank_map_1 + rank_map_2 + rank_map_3 +rank_map_4 + rank_map_5
 
