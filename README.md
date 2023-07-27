@@ -7,5 +7,5 @@ Enter Code：UANE
 
 The whole framework of the paper will be released soon!
 
-Refer to the following link for the processing methods of the dataset:
+Refer to the following link for the processing the dataset:
 https://github.com/WangLibo1995/BuildFormer
