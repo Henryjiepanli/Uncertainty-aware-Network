@@ -6,7 +6,7 @@ We are delighted to inform everyone that our paper has been successfully accepte
 
 The results on the three building datasets can be downloaded via Baidu Disk：[Link](https://pan.baidu.com/s/1MkoWfIyz7DADg37nUuMTgw?pwd=UANE) Code:UANE
 
-We have released the codes of our network including four backbones (*VGG, ResNet50, Res2Net-50, PVT-v2-b2*). The whole training and testing framework of the paper will be released soon!
+We have released the codes of our UANet based on four backbones (*VGG, ResNet50, Res2Net-50, and PVT-v2-b2*). The whole training and testing framework of the paper will be released soon!
 
 ## Reference
 Our data processing is based on the [BuildFormer](https://github.com/WangLibo1995/BuildFormer). Here, we sincerely express our gratitude to the authors of that paper.
