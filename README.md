@@ -8,6 +8,11 @@ The results on the three building datasets can be downloaded via Baidu Disk：[L
 
 We have released the codes of our network including four backbones (*VGG, ResNet50, Res2Net-50, PVT-v2-b2*). The whole training and testing framework of the paper will be released soon!
 
+## Reference
+Refer to the following link for the processing the dataset: [Link](https://github.com/WangLibo1995/BuildFormer)
+
+## Citation
+
 We are very happy for you cite our research:
 
 ```bibtex
@@ -21,7 +26,4 @@ number={},
 pages={1-1},
 keywords={Feature extraction;Uncertainty;Buildings;Data mining;Decoding;Remote sensing;Deep learning;Building extraction;remote sensing;uncertainty-aware},
 doi={10.1109/TGRS.2024.3361211}}
-```bibtex
 
-## Reference
-Refer to the following link for the processing the dataset: [Link](https://github.com/WangLibo1995/BuildFormer)
