@@ -13,7 +13,7 @@ Our data processing is based on the [BuildFormer](https://github.com/WangLibo199
 
 ## Citation
 
-We are very happy for you cite our research:
+We appreciate your attention to our work!
 
 ```bibtex
 @ARTICLE{10418227,
