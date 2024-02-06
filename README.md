@@ -1,8 +1,9 @@
 # Codes for 《 UANet: an Uncertainty-Aware Network for Building Extraction from Remote Sensing Images》
-Paper Link: https://ieeexplore.ieee.org/document/10418227
 
-The results on the three building datasets can be downloaded：(https://pan.baidu.com/s/1MkoWfIyz7DADg37nUuMTgw?pwd=UANE)
-Enter Code：UANE
+## We are delighted to inform everyone that our paper has been successfully accepted by TGRS (IEEE Transactions on Geoscience and Remote Sensing). 
+Paper Link [https://ieeexplore.ieee.org/document/10418227]
+
+The results on the three building datasets can be downloaded：Link[https://pan.baidu.com/s/1MkoWfIyz7DADg37nUuMTgw?pwd=UANE] Enter Code：UANE
 
 We have released the codes of our network including four backbones (VGG, ResNet50, Res2Net-50, PVT-v2-b2). The whole training and testing framework of the paper will be released soon!
 
