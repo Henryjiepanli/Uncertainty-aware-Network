@@ -17,13 +17,13 @@ We appreciate your attention to our work!
 
 ```bibtex
 @ARTICLE{10418227,
-author={Li, Jiepan and He, Wei and Cao, Weinan and Zhang, Liangpei and Zhang, Hongyan},
-journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-title={UANet: an Uncertainty-Aware Network for Building Extraction from Remote Sensing Images}, 
-year={2024},
-volume={},
-number={},
-pages={1-1},
-keywords={Feature extraction;Uncertainty;Buildings;Data mining;Decoding;Remote sensing;Deep learning;Building extraction;remote sensing;uncertainty-aware},
-doi={10.1109/TGRS.2024.3361211}}
+  author={Li, Jiepan and He, Wei and Cao, Weinan and Zhang, Liangpei and Zhang, Hongyan},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={UANet: An Uncertainty-Aware Network for Building Extraction From Remote Sensing Images}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-13},
+  keywords={Feature extraction;Uncertainty;Buildings;Data mining;Decoding;Remote sensing;Deep learning;Building extraction;remote sensing (RS);uncertainty-aware},
+  doi={10.1109/TGRS.2024.3361211}}
 
