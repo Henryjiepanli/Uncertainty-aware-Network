@@ -19,7 +19,7 @@ To train the UANet model, follow these steps:
    CUDA_VISIBLE_DEVICES=0 python Code/train.py -c config/whubuilding/UANet.py
 2. Set the CUDA visible devices to specify the GPU for test. For example, to use GPU 0, run the following command:
    ```bash
- CUDA_VISIBLE_DEVICES=0 python Code/test.py -c config/whubuilding/UANet.py -o test_results/whubuilding/UANet/ --rgb
+   CUDA_VISIBLE_DEVICES=0 python Code/test.py -c config/whubuilding/UANet.py -o test_results/whubuilding/UANet/ --rgb
 
 ## Testing Instructions with Test Time Augmentation (TTA)
 
