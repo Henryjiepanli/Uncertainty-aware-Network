@@ -10,6 +10,7 @@ We have released the codes of our UANet based on four backbones (*VGG, ResNet50,
 
 The whole training and testing framework of the paper have been released!
 
+Our framwork has been deployed into application:
 ![GIF Image](building.gif)
 
 ## Training Instructions
