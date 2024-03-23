@@ -1,4 +1,5 @@
 from torch.utils.data import DataLoader
+import torch.nn as nn
 from geoseg.losses import *
 from geoseg.datasets.inria_dataset import *
 from geoseg.models.UANet import UANet_VGG
@@ -34,7 +35,7 @@ resume_ckpt_path = None
 #  define the network
 net = UANet_VGG(channel=32,num_classes=num_classes)
 # define the loss
-loss = EdgeLoss(ignore_index=255)
+loss = nn.CrossEntropyLoss()
 use_aux_loss = False
 
 # define the dataloader
