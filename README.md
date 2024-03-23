@@ -10,7 +10,7 @@ We have released the codes of our UANet based on four backbones (*VGG, ResNet50,
 
 The whole training and testing framework of the paper have been released!
 
-Our framework has been deployed into application[building.gif]
+Our framework has been deployed into application(building.gif)
 ## Training Instructions
 
 To train the UANet model, follow these steps:
