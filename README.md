@@ -29,6 +29,13 @@ To perform testing with Test Time Augmentation (TTA), follow these steps:
    ```bash
    python Code/test.py -c config/whubuilding/UANet.py -o test_results/whubuilding/UANet/ -t lr --rgb
 
+## Training Instructions for Multiple Training Sessions
+
+If you want to continue training the model from a checkpoint or perform multiple training sessions, follow this:
+
+1. Adjust the *pretrained_ckpt_path* in the config file.
+
+
 ## Reference
 Our data processing is based on the [BuildFormer](https://github.com/WangLibo1995/BuildFormer). Here, we sincerely express our gratitude to the authors of that paper.
 
