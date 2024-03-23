@@ -1,5 +1,6 @@
 from torch.utils.data import DataLoader
 from geoseg.losses import *
+import torch.nn as nn
 from geoseg.datasets.whubuilding_dataset import *
 from geoseg.models.UANet import UANet_VGG
 from catalyst.contrib.nn import Lookahead
@@ -34,7 +35,7 @@ resume_ckpt_path = None
 #  define the network
 net = UANet_VGG(channel=32,num_classes=num_classes)
 # define the loss
-loss = EdgeLoss(ignore_index=255)
+loss = nn.CrossEntropyLoss()
 use_aux_loss = False
 
 # define the dataloader
