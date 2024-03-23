@@ -10,7 +10,7 @@ We have released the codes of our UANet based on four backbones (*VGG, ResNet50,
 
 The whole training and testing framework of the paper have been released!
 
-https://henryjiepanli.github.io/Jiepanli_Henry.github.io/images/WeChat_20240124230813.mp4
+Our framework has been deployed into application[building.gif]
 ## Training Instructions
 
 To train the UANet model, follow these steps:
