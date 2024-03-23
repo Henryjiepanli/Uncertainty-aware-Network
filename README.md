@@ -29,8 +29,6 @@ To perform testing with Test Time Augmentation (TTA), follow these steps:
    ```bash
    python Code/test.py -c config/whubuilding/UANet.py -o test_results/whubuilding/UANet/ -t lr --rgb
 
-
-
 ## Reference
 Our data processing is based on the [BuildFormer](https://github.com/WangLibo1995/BuildFormer). Here, we sincerely express our gratitude to the authors of that paper.
 
