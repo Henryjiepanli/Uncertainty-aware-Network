@@ -37,7 +37,7 @@ If you want to continue training the model from a checkpoint or perform multiple
 
 
 ## Reference
-Our data processing is based on the [BuildFormer](https://github.com/WangLibo1995/BuildFormer). Here, we sincerely express our gratitude to the authors of that paper.
+Our data processing  and whole framework are based on the [BuildFormer](https://github.com/WangLibo1995/BuildFormer). Here, we sincerely express our gratitude to the authors of that paper.
 
 ## Citation
 
