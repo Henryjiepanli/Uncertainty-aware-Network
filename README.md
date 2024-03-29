@@ -4,6 +4,8 @@
 We are delighted to inform everyone that our paper has been successfully accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS 2024). 
 [Paper Link](https://ieeexplore.ieee.org/document/10418227)
 
+We are delighted to inform you that based on our proposed UANet, we have made improvements and successfully secured the double track championship in the **2024 IEEE GRSS Data Fusion Contest**.
+
 The results on the three building datasets can be downloaded via Baidu Disk：[Link](https://pan.baidu.com/s/1MkoWfIyz7DADg37nUuMTgw?pwd=UANE) Code:UANE
 
 We have released the codes of our UANet based on four backbones (*VGG, ResNet50, Res2Net-50, and PVT-v2-b2*). 
