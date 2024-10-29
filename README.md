@@ -17,7 +17,9 @@ Our framwork has been deployed into application:
 ![GIF Image](building.gif)
 
 ## Pretrained Backbones:
-We have provided the pretrained backbones(ResNet-50, Res2Net-50, PVT-v2-b2), where you can download via Baidu Disk [Link](https://pan.baidu.com/s/16sA3ZejzcItAWa2JE1G6vg?pwd=abmg) Code:abmg 
+We have provided the pretrained backbones(ResNet-50, Res2Net-50, PVT-v2-b2) 
+
+You can download via Baidu Disk [Link](https://pan.baidu.com/s/16sA3ZejzcItAWa2JE1G6vg?pwd=abmg) Code:abmg 
 
 ## Training Instructions
 
