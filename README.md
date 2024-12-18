@@ -17,9 +17,11 @@ Our framwork has been deployed into application:
 ![GIF Image](building.gif)
 
 ## Pretrained Backbones:
-We have provided the pretrained backbones(ResNet-50, Res2Net-50, PVT-v2-b2) 
+We have provided the pretrained backbones(ResNet-50, Res2Net-50, PVT-v2-b2) and the processed datasets(WHU Building Dataset, Mass Building Dataset, Inria Building Dataset)
 
-You can download via Baidu Disk [Link](https://pan.baidu.com/s/16sA3ZejzcItAWa2JE1G6vg?pwd=abmg) Code:abmg 
+You can download the pretrained backbones via Baidu Disk [Link](https://pan.baidu.com/s/16sA3ZejzcItAWa2JE1G6vg?pwd=abmg) Code:abmg 
+
+You can download the three building datasets via Baidu Disk [Link](https://pan.baidu.com/s/1sAE_NUf1NqnMQllAVJpM3g?pwd=UANe) Code: UANe
 
 ## Training Instructions
 
